@@ -18,8 +18,8 @@ Descripton of Matplotlib-Challenge
     the number of metastatic sites and increasing survival rate.  Therefore, we should not treat mice with
     Capomulin, as I hate mice and want them all to die.
 
-5.  One final conclusion is that there are some issues with the above analysis, as mice that died were not included
-    in the calculations of average tumor size and average metastatic sites in the later time periods. They were also
-    not included in the calculation of the overall precentage change in the tumor size over the 45 day trial period.
-    This should be clearly noted in the study results and additonal analysis where these mice were addressed should
-    be added.  However, I am sick of doing homework, so I am not going to do this additional analysis.
+5.  One final comment is that there are some issues with the above analysis, as mice that died were not included
+    in the calculations of average tumor size and average metastatic sites in the later time periods. The 45 day tumor
+    size was also not used for mice that died in the calculation of the overall precentage change in the tumor size over the 
+    45 day trial period.  This should be clearly noted in the study results and additonal analysis where these mice were 
+    addressed should be added.  However, I am sick of doing homework, so I am not going to do this additional analysis.
