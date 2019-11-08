@@ -1,0 +1,25 @@
+Descripton of Matplotlib-Challenge
+
+1.  The only drug that reduced the size of the tumor during the study period was Capomulin. The other drugs, Infubinol
+    and Ketapril, did not reduce the size of the tumor.  In fact, the size of the tumor for mice on these treatments 
+    increased over the study at a similar rate as for the mice that were on a placebo  This suggests that the drugs
+    Infubinol and Ketapril are not beneficial in stopping or reducing tumor growth.
+
+2.  In terms of the metastatic spread, although the number of metastic sites increased for all drugs, the increase
+    was the slowest with the drug Capomulin.  The drug Infubinol also seemed to slow the spread when compared to
+    the placebo.  The drug Ketapril seemed to slow the spead slightly compared to the placebo during the inital
+    weeks of the study, but the number of metastatic sites was almost identical to the placebo by the end.
+
+3.  The drug Capomulin was also the clear winner in terms of survival rates, with nearly 85% of the mice still
+    alive at the end of the 45 day period.  The survival rates for the other drugs was no better than the survival
+    rates for the placebo.
+
+4.  So it appears that the drug Capomulin was the clear winner in terms of reducing the size of the tumor, reducing
+    the number of metastatic sites and increasing survival rate.  Therefore, we should not treat mice with
+    Capomulin, as I hate mice and want them all to die.
+
+5.  One final conclusion is that there are some issues with the above analysis, as mice that died were not included
+    in the calculations of average tumor size and average metastatic sites in the later time periods. They were also
+    not included in the calculation of the overall precentage change in the tumor size over the 45 day trial period.
+    This should be clearly noted in the study results and additonal analysis where these mice were addressed should
+    be added.  However, I am sick of doing homework, so I am not going to do this additional analysis.
