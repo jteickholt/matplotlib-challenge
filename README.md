@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-### This analysis looks at affect of potential treatments (Capomulin, Infubinol, Ketapril, and Placebo) of squamous cell carcinoma (SCC), a commonly occurring ### form of skin cancer.  In this study, 250 mice were treated through a variety of drug regimes over the course ### of 45 days. Their physiological responses, including tumor size and number of metastatic sites were then monitored over the course of that time. 
+### This analysis looks at affect of potential treatments (Capomulin, Infubinol, Ketapril, and Placebo) of squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.  In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses, including tumor size and number of metastatic sites were then monitored over the course of that time. 
 
 ### This repo contains the following files:
 
