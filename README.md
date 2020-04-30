@@ -4,6 +4,6 @@
 
 ### This repo contains the following files:
 
-#### pymaceuticals.ipynb:  This is the Jupyter Notebook used for the analysis.  It contains all code used to analyze the data and create visual representations of the results.
+#### 1.  pymaceuticals.ipynb:  This is the Jupyter Notebook used for the analysis.  It contains all code used to analyze the data and create visual representations of the results.
 
-#### Results_Summary.txt:  This is a short summary of the findings of the analysis.
+#### 2.  Results_Summary.txt:  This is a short summary of the findings of the analysis.
